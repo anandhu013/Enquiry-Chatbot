@@ -1,0 +1,43 @@
+{"options": [
+        {"tag": "intro",
+         "questions": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "answers": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "questions": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day","bye","thankyou"],
+         "answers": ["Sad to see you go :(", "Talk to you later", "Goodbye!","Please come again"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "questions": ["how old", "how old is Sophie", "what is your age", "how old are you", "age?"],
+         "answers": ["I am 20 years old!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "questions": ["what is your name", "what should I call you", "whats your name?"],
+         "answers": ["You can call me Sophie.", "I'm Sophie!"],
+         "context_set": ""
+        },
+        {"tag": "shop",
+         "questions": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat","What can I eat?","What do you sell?","What is there to eat?"],
+         "answers": ["We sell chocolate cakes for 500Rs!", "Cakes are on the menu!","Our 500Rs cookies will be perfect for you"],
+         "context_set": ""
+        },
+        {"tag": "order",
+         "questions": ["Id like to have some cakes", "Can I have 2 cakes", "Please give me 5 cakes", "I want 3 cakes","Can I get 4 cakes","Get me 8 cakes","Get me 9 cakes"],
+         "answers": ["Order is noted", "Great choice Sir/Madam","Delicious cakies coming for you!"],
+         "context_set": ""
+        },
+        {"tag": "complaints",
+         "questions": ["The cakes were spoilt","It is spoilt","The cakes are old","Cakes were expired", "The service was bad", "Cakes were tasteless","My order was not fulfilled","It was a very bad experience","I have some complaints","Where can i complaint"],
+         "answers": ["Sorry to here that please contact:cakecomplaint@mail.com","For complaints contact:cakecomplaint@mail.com"],
+         "context_set": ""
+        },
+        {"tag": "time",
+         "questions": ["when are you guys open", "what are your hours", "hours of operation","Whan do you close","Till what time can i get your service","Are you open on weekends?"],
+         "answers": ["We are open 7am-4pm Monday-Friday!"],
+         "context_set": ""
+        }
+   ]
+}
